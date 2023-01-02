@@ -6,4 +6,4 @@
 - 📍&nbsp; Location Tashkent, Uzbekistan
 - Languages and tools: 
 <br />
-<code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" ></code>
+<code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="50"></code>
