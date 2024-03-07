@@ -1,7 +1,7 @@
 ### Avaz Shukurullayev
 - 👋 Hi, I’m @AvazShukurullayev
-- 👀 I’m interested in coding, programming, solving problems and travelling
-- 🌱 I’m currently learning Front end development
+- 👀 I’m interested in coding, programming, solving problems, and traveling
+- 🌱 I’m currently learning Full Stack development. Actually (MERN, Full Stack NextJs development, for Backend NestJs)
 - 📫 How to reach me: telegram (@avaz0921arm)
 - 📍&nbsp; Location Tashkent, Uzbekistan
 - Languages and tools: 
